@@ -1,0 +1,16 @@
+{"id": 889, "petId": 899, "quantity": 710, "shipDate": "2024-02-16T02:32:30.567732", "status": "nout88epRnKsg", "complete": false}
+'Trying to connect...https://petstore.swagger.io/v2/store/order'
+200
+'OK'
+'POST example'
+'https://petstore.swagger.io/v2/store/order'
+200
+'OK'
+'{"id":889,"petId":899,"quantity":710,"shipDate":"2024-02-16T02:32:30.567+0000","status":"nout88epRnKsg","complete":false}'
+{'complete': False,
+ 'id': 889,
+ 'petId': 899,
+ 'quantity': 710,
+ 'shipDate': '2024-02-16T02:32:30.567+0000',
+ 'status': 'nout88epRnKsg'}
+'**********'

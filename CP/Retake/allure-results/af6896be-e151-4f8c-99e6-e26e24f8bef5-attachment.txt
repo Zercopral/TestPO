@@ -1,0 +1,11 @@
+{"id": 651, "petId": 214, "quantity": "LpSY10mhu", "shipDate": "2024-02-16T02:32:31.630125", "status": "F82xPFIBCtFD", "complete": false}
+'Trying to connect...https://petstore.swagger.io/v2/store/order'
+500
+'Server Error'
+'POST example'
+'https://petstore.swagger.io/v2/store/order'
+500
+'Server Error'
+'{"code":500,"type":"unknown","message":"something bad happened"}'
+{'code': 500, 'message': 'something bad happened', 'type': 'unknown'}
+'**********'

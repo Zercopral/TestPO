@@ -1,0 +1,11 @@
+{"id": 849, "username": "oZngcs3zr", "firstName": "UwgO9JH3cfVjaoE", "lastName": "gADNqa25du", "email": "mgoLQq9eZU5FFm7", "password": "iNyj4zCQn9ICTsP", "phone": "XhzqkVL9N", "userStatus": 688}
+'Trying to connect...https://petstore.swagger.io/v2/store/order'
+200
+'OK'
+'POST example'
+'https://petstore.swagger.io/v2/store/order'
+200
+'OK'
+'{"id":849,"petId":0,"quantity":0,"complete":false}'
+{'complete': False, 'id': 849, 'petId': 0, 'quantity': 0}
+'**********'
